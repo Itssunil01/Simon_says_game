@@ -1,1 +1,3 @@
 # Simon_says_game
+
+I have created this project using HTML , CSS AND JAVASCRIPT....
